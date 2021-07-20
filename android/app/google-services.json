@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336753229635",
+    "project_id": "blog-appayham",
+    "storage_bucket": "blog-appayham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336753229635:android:4cf1d330630a997f4379f6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_blog_app_ayham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336753229635-mpcsohcn1q5fv6imlkugc6lq2vu8iphq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjL_XLdnI_l_RtcEbbd1aQXNagm7mtyBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336753229635-mpcsohcn1q5fv6imlkugc6lq2vu8iphq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
